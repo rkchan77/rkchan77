@@ -4,7 +4,7 @@
 
 ### Some facts about me:
 🎓 Second-year computer engineering student at the University of Toronto <br />
-🌱 Currently learning cloud computing on AWS <br />
+🌱 Currently learning mobile development with React Native, Swift, and Kotlin <br />
 🎯 Building Side Quests, an app that generates customized tourism itineraries <br />
 💬 Interested in web3, fintech, AI, and startups, but would love to chat about anything! <br />
 
