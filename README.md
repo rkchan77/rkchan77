@@ -1,6 +1,12 @@
-# 💫 About Me:
-I'm a second-year computer engineering student at the University of Toronto interested in fintech and web3
+# 👤 About Me:
 
+👋 Hi! I'm Ryan Chan. I'm a software engineer with expertise in front-end development where I excel in refining visuals and crafting compelling UI/UX experiences. 
+
+### Some facts about me:
+🎓 Second-year computer engineering student at the University of Toronto <br />
+🌱 Currently learning cloud computing on AWS <br />
+🎯 Building Side Quests, an app that generates customized tourism itineraries <br />
+💬 Interested in web3, fintech, AI, and startups, but would love to chat about anything! <br />
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rykchan) 
@@ -12,5 +18,3 @@ I'm a second-year computer engineering student at the University of Toronto inte
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rkchan77&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rkchan77&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 [![](https://visitcount.itsvg.in/api?id=rkchan77&icon=0&color=11)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
