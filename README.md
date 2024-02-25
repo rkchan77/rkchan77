@@ -2,7 +2,7 @@
 I'm a second-year computer engineering student at the University of Toronto interested in fintech and web3
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rykchan) 
 
 # 💻 Tech Stack:
