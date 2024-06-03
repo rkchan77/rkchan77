@@ -4,9 +4,9 @@
 
 ### Some facts about me:
 🎓 Second-year computer engineering student at the University of Toronto <br />
-🌱 Currently learning mobile app development with React Native, Swift, and Kotlin <br />
-🎯 Building Side Quests, a day planner app that generates customized tourism itineraries <br />
-💬 Interested in web3, fintech, AI, and startups, but would love to chat about anything! <br />
+🌱 Currently learning cloud computing on AWS <br />
+🎯 Building classmate, a community-based learning platform that creates study content based on your own course material<br />
+💬 Interested in fintech, AI, and startups, but would love to chat about anything! <br />
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rykchan) 
