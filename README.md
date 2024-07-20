@@ -3,7 +3,7 @@
 👋 Hi! I'm Ryan Chan. I'm a software engineer with expertise in front-end development where I excel in refining visuals and crafting compelling UI/UX experiences. 
 
 ### Some facts about me:
-🎓 Second-year computer engineering student at the University of Toronto <br />
+🎓 Third-year computer engineering student at the University of Toronto <br />
 🌱 Currently learning cloud computing on AWS <br />
 🎯 Building classmate, a community-based learning platform that creates study content based on your own course material<br />
 💬 Interested in fintech, AI, and startups, but would love to chat about anything! <br />
