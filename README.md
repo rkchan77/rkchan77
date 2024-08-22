@@ -5,8 +5,8 @@
 ### Some facts about me:
 🎓 Third-year computer engineering student at the University of Toronto <br />
 🌱 Currently learning cloud computing on AWS <br />
-🎯 Building classmate, a community-based learning platform that creates study content based on your own course material<br />
-💬 Interested in fintech, AI, and startups, but would love to chat about anything! <br />
+🎯 Building [ryko.org](https://www.ryko.org/landing), a platform that creates personalized educational experiences made for you!<br />
+💬 Interested in edutech, AI, and startups, but would love to chat about anything! <br />
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rykchan) 
