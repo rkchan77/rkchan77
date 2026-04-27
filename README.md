@@ -7,7 +7,7 @@ Software engineer focused on building products and systems at the intersection o
 
 I'm a Computer Engineering student at the University of Toronto, currently on co-op as a Global Equity Trading Developer at Scotiabank on the Electronic Execution Services and Algorithmic Trading desk.
 
-I enjoy building end-to-end software for users — from full-stack applications to performance-sensitive, data-driven systems. My experience spans shipping user-facing products in startup environments to building systems used in fast-moving financial markets.
+I enjoy building end-to-end software for users, from full-stack applications to performance-sensitive, data-driven systems. My experience spans shipping user-facing products in startup environments to building systems used in fast-moving financial markets.
 
 Interested in building across product, infrastructure, and quantitative systems.
 
