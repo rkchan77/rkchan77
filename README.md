@@ -11,14 +11,6 @@ I enjoy building end-to-end software for users, from full-stack applications to 
 
 Interested in building across product, infrastructure, and quantitative systems.
 
-### Featured Work
-
-**[Nomah](https://nomah.world)**  
-A collaborative travel planning platform designed around shared itineraries and real-time coordination.
-
-**[simplyMail.](https://simply-mail-git-main-rkchan77s-projects.vercel.app/)**  
-Local-first email client built for speed and control, with background syncing and AI powered workflows.
-
 ### Stack
 
 <p>
